@@ -22,15 +22,14 @@ pip install rich
 
 git clone https://github.com/YNTKS4Y4/MOKO
 
-cd B-Xilent
+cd MOKO
 
 pip install getuseragent
 
 git pull
 
-python run.py
+python moko.py
 
 CARA MENJALANKAN PERINTAH ULANG/UPDATE SC :
-git pull
 
-python run.py
+python moko.py
