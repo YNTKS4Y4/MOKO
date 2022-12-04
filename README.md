@@ -36,6 +36,6 @@ git pull
 
 python moko.py
 
-CARA MENJALANKAN PERINTAH ULANG/UPDATE SC :
+#CARA MENJALANKAN PERINTAH ULANG/UPDATE SC :
 
 python moko.py
