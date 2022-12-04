@@ -20,7 +20,7 @@ pip install bs4
 
 pip install rich
 
-git clone https://github.com/YNTKS4Y4/B-Xilent
+git clone https://github.com/YNTKS4Y4/MOKO
 
 cd B-Xilent
 
