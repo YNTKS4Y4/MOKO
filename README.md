@@ -3,10 +3,7 @@
 KALAU CP BERARTI LU KURANG GANTENG
 NAMANYA JUGA FREE JAN LUPA KASIH BINTANG ⭐⭐⭐
 
-(If you want open source this script inbox me
-On facebook free https://www.facebook.com/hanif.maula.94) 
-
-CARA MENJALANKAN TOOLS :
+# CARA MENJALANKAN TOOLS :
 
 pkg update && pkg upgrade
 
@@ -36,6 +33,6 @@ git pull
 
 python moko.py
 
-# CARA MENJALANKAN PERINTAH ULANG/UPDATE SC :
+# CARA MENJALANKAN PERINTAH ULANG/UPDATE SC
 
 python moko.py
